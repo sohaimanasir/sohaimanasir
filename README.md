@@ -13,7 +13,7 @@
 
 **📬 How to Reach Me**  
 - 📧 Email: sohaimanasir1@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sohaimanasir  
+- 💼 LinkedIn: https://www.linkedin.com/in/sohaima-nasir-5ba780216/  
 - 🌍 Portfolio: Currently building it—excited to share soon!  
 
 **🌟 Fun Fact**  

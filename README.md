@@ -1,23 +1,21 @@
-**Hi, I'm Sohaima!** 👋  
+**Hi, I'm Sohaima!**  
 💻 Future Web Developer  
 
-**🔹 About Me**  
-- 🎯 Passionate about front-end development  
-- 🛠 Currently learning **HTML, CSS, and JavaScript**  
-- 💡 Exploring **web design and UI/UX**  
-- 🌱 Improving my **problem-solving** skills  
+** About Me**  
+- Passionate about front-end development  
+- Currently learning **HTML, CSS, and JavaScript**  
+- Exploring **web design and UI/UX**  
+- Improving my **problem-solving** skills  
 
-**🚀 What I'm Working On**  
-- 📌 Building projects to sharpen my skills  
-- 🤝 Open to **collaborations** on web development projects  
+** What I'm Working On**  
+-  Building projects to sharpen my skills  
+-  Open to **collaborations** on web development projects  
 
-**📬 How to Reach Me**  
-- 📧 Email: sohaimanasir1@gmail.com  
-- 💼 LinkedIn: https://www.linkedin.com/in/sohaima-nasir-5ba780216/  
-- 🌍 Portfolio: Currently building it—excited to share soon!  
+** How to Reach Me**  
+-  Email: sohaimanasir1@gmail.com  
+-  LinkedIn: https://www.linkedin.com/in/sohaima-nasir-5ba780216/  
+-  Portfolio: Currently building it—excited to share soon!  
 
-**🌟 Fun Fact**  
-I love **dark-themed websites** and **cats** 🖤😼  
 
 
 <!---

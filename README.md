@@ -1,17 +1,17 @@
 **Hi, I'm Sohaima!**  
-💻 Future Web Developer  
+Future Web Developer  
 
-** About Me**  
+**About Me**  
 - Passionate about front-end development  
 - Currently learning **HTML, CSS, and JavaScript**  
 - Exploring **web design and UI/UX**  
 - Improving my **problem-solving** skills  
 
-** What I'm Working On**  
+**What I'm Working On**  
 -  Building projects to sharpen my skills  
 -  Open to **collaborations** on web development projects  
 
-** How to Reach Me**  
+**How to Reach Me**  
 -  Email: sohaimanasir1@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/sohaima-nasir-5ba780216/  
 -  Portfolio: Currently building it—excited to share soon!  

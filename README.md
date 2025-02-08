@@ -1,10 +1,10 @@
 **Hi, I'm Sohaima!**  
-Future Web Developer  
+Novice Web Developer  
 
 **About Me**  
-- Passionate about front-end development  
+- Passionate about MERN Stack Develpment  
 - Currently learning **HTML, CSS, and JavaScript**  
-- Exploring **web design and UI/UX**  
+- Exploring **Web design and UI/UX**  
 - Improving my **problem-solving** skills  
 
 **What I'm Working On**  

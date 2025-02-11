@@ -14,7 +14,7 @@ Novice Web Developer
 **How to Reach Me**  
 -  Email: sohaimanasir1@gmail.com  
 -  LinkedIn: https://www.linkedin.com/in/sohaima-nasir-5ba780216/  
--  Portfolio: Currently building it—excited to share soon!  
+-  Portfolio:https://portfolio-git-sohaima-sohaima-nasirs-projects.vercel.app/
 
 
 
